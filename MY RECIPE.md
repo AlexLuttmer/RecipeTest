@@ -28,3 +28,5 @@ ROOM FOR TIPS AND TRICKS
 - TIP # 2 Added
 - Tip # 4 Added
 - Tip # 5 Added
+
+HET WERKT ECHT HOOR, MAAK JE GEEN ZORGEN!
