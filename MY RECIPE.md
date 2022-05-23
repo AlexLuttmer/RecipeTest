@@ -26,4 +26,5 @@ INSTRUCTIONS
 ROOM FOR TIPS AND TRICKS
 - TIP # 1 Added
 - TIP # 2 Added
--
+- Tip # 4 Added
+- Tip # 5 Added
